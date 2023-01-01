@@ -12,9 +12,11 @@ Projeto de estudos sobre UIKit
 
 ## 🖇️ Colaborando
 
-Veja o arquivo [CONTRIBUTING.md](https://github.com/AIWASS23/poc-swift/blob/main/CONTRIBUTING.md) para detalhes.
+Veja o arquivo [CONTRIBUTING.md](https://github.com/AIWASS23/NetflixSwift/blob/main/CONTRIBUTING.md) para detalhes.
 
 ## 📌 Versão
+
+Veja o arquivo [SECURITY.md](https://github.com/AIWASS23/NetflixSwift/blob/main/SECURITY.md) para detalhes.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -26,7 +28,7 @@ Veja o arquivo [CONTRIBUTING.md](https://github.com/AIWASS23/poc-swift/blob/main
 
 ## 📄 Licença
 
-Este projeto está sob a licença (GNU General Public License v3.0) - veja o arquivo [LICENSE.md](https://github.com/AIWASS23/poc-swift/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (GNU General Public License v3.0) - veja o arquivo [LICENSE.md](https://github.com/AIWASS23/NetflixSwift/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
